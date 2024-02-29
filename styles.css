@@ -1,0 +1,201 @@
+body {
+  background-color: white;
+}
+.navbar {
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+.wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1260px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  background-color: white;
+}
+
+.start {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+#vl {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+button {
+  padding: 12px 16px;
+  /*color: white;*/
+  width: 50%;
+  /* border-radius: 10%; */
+}
+
+.ondiv {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(3, 1fr);
+  width: 30%;
+}
+
+.img {
+  display: flex;
+  /* display: grid; */
+  /* grid-template-rows: table-row;
+  grid-template-columns: repeat(3, 1fr); */
+  padding: 12px 16px;
+  width: 50%;
+  height: auto;
+}
+
+.lv {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(5, 1fr);
+  color: gray;
+}
+
+.rough {
+  width: 50%;
+  height: auto;
+}
+
+.nordic {
+  width: 50%;
+  height: auto;
+}
+
+.ceramic {
+  width: 50%;
+  height: auto;
+}
+
+.ceramicversel {
+  width: 50%;
+  height: auto;
+}
+
+.best { 
+  padding: 30px 40px;
+}
+
+.one {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2px;
+  padding: 12px 16px;
+}
+
+
+
+#details {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.line {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2px;
+  padding: 12px 16px;
+
+}
+
+.restyle {
+  gap: 2px;
+  padding: 12px 16px;
+  margin-left: 30%;
+}
+
+.lineimg {
+  padding: 12px 16px;
+  width: 50%;
+  height: 500px;
+} 
+
+.living {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 12px 16px;
+  height: 50opx;
+  width: 30%;
+}
+
+#styles {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(5, 1fr);
+  width: 100%;
+  padding: 12px 16px;
+}
+
+
+#h1 {
+  gap: 2px;
+  padding: 12px 16px;
+  margin-left: 30%;
+}
+
+.enter1 {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.footer {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+}
+
+.Raman {
+  padding: 12px 16px;
+  width: 10%;
+  height: auto;
+  float: right;
+  margin-top: -50%;
+  
+}
+
+.p {
+    float: right;
+    margin-top: -20%; 
+}
+
+h4 {
+  
+  float: right;
+  margin-top: -30%;
+  margin-left: 30%;
+}
+
+.vase {
+  width: 50%;
+}
+
+#name {
+  display: grid;
+  grid-template-rows: table-row;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+li {
+  display: flex;
+}
+
+.video {
+  width: 30px;
+}
